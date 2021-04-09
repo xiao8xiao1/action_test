@@ -1,4 +1,4 @@
-name: CI
+name: 18.04
 on: [push]
 jobs:
   build:
